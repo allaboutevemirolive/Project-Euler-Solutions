@@ -1,5 +1,5 @@
 public class Problem1 {
-  public String run() {
+  public String p1() {
     int total = 0;
 
     for (int i = 0; i < 1000; i++) {
