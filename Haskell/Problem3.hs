@@ -1,3 +1,4 @@
+-- Calculates the biggest divisor
 biggestDivisor :: Integer -> Integer
 biggestDivisor n
 				| even n = biggestDivisor (div n 2)
