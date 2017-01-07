@@ -54,4 +54,4 @@ I haven't done every solution in every language so here's a table to make things
 
 
 # Credits
-Thanks to Lewis Lovette for building this glorious table.
+Thanks to [Lewis Lovette](https://github.com/LewisLovette) for building this glorious table.
