@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Project Euler Solutions
 I haven't done every solution in every language so here's a table to make things easier:
 
