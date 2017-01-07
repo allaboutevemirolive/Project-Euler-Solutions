@@ -2,6 +2,8 @@
 #Project Euler Solutions
 I haven't done every solution in every language so here's a table to make things easier:
 
+*This table is not complete.*
+
 |           | C# | F# | Java | Haskell | Python | Mathematica |
 |-----------|----|----|------|---------|--------|-------------|
 | Problem 1 |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/C%23/Problem1.cs)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/F%23/Problem1.fs)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/Problem1.java)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/Problem1.hs)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/Problem1.pya)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Mathematica/Problem1.mathematica)|
@@ -13,5 +15,4 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 7 |    |    |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/Problem7.java)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/Problem7.hs)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/Problem7.py)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Mathematica/Problem7.mathematica)|
 | Problem 8 |    |    |      |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/Problem8.hs)|         |             |
 =======
-# Project Euler Solutions
->>>>>>> PESolutions/master
+
