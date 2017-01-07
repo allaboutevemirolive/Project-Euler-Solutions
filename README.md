@@ -1,9 +1,7 @@
 #Project Euler Solutions
 I haven't done every solution in every language so here's a table to make things easier:
 
-*This table is not complete.*
-
-|           | C# | Java | Haskell | Python | Mathematica | C++ | PARI/GP | Ruby |
+|  Problems | C# | Java | Haskell | Python | Mathematica | C++ | PARI/GP | Ruby |
 |-----------|----|------|---------|--------|-------------|----|----|----|
 | Problem 1 |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/C%23/Problem1.cs)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/Problem1.java)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/Problem1.hs)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/Problem1.pya)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Mathematica/Problem1.mathematica)|  |  |  |
 | Problem 2 |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/C%23/Problem2.cs)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/Problem2.java)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/Problem2.hs)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/Problem2.py)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Mathematica/Problem2.mathematica)|  |  |  |
