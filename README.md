@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Project Euler Solutions
 I haven't done every solution in every language so here's a table to make things easier:
 
@@ -11,3 +12,6 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 6 |    |    |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/Problem6.java)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/Problem6.hs)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/Problem6.py)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Mathematica/Problem6.mathematica)|
 | Problem 7 |    |    |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/Problem7.java)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/Problem7.hs)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/Problem7.py)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Mathematica/Problem7.mathematica)|
 | Problem 8 |    |    |      |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/Problem8.hs)|         |             |
+=======
+# Project Euler Solutions
+>>>>>>> PESolutions/master
