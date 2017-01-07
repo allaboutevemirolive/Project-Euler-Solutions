@@ -31,3 +31,6 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 357 |    |      |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p357.java)|         |    |             | 
 | Problem 358 |    |      |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p358.java)|         |    |             | 
 | Problem 359 |    |     |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p359.java)|         |    |              | 
+
+# Credits
+Thanks to Lewis Lovette for building this glorious table.
