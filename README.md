@@ -1,10 +1,17 @@
-#Project Euler Solutions
+# Project Euler Solutions
+This repository contains some of my solutions to Project Euler problems. 
+
+Since I've just decided to create this repository, all solutions are not here. You are welcome to fill in the gaps that I have in my table below. 
+
+### Languages Used
+I'm currently doing these problems in C/C++, Java, and Python. I've recently started (learning and) using PARI/GP since it's so efficient. I also use Haskell, F#, C#, Ruby, and Mathematica from time to time depending on how I feel about the problem.
+
+### Table
+
 I haven't done every solution in every language so here's a table to make things easier:
 
-*This table is not complete.*
-
-|           | C# | Java | Haskell | Python | Mathematica | C++ | PARI/GP | Ruby |
-|-----------|----|------|---------|--------|-------------|----|----|----|
+|  Problems | C# | Java | Haskell | Python | Mathematica | C++ | PARI/GP | Ruby |
+|-----------|----|------|---------|--------|-------------|-----|---------|------|
 | Problem 1 |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/C%23/Problem1.cs)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/Problem1.java)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/Problem1.hs)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/Problem1.pya)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Mathematica/Problem1.mathematica)|  |  |  |
 | Problem 2 |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/C%23/Problem2.cs)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/Problem2.java)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/Problem2.hs)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/Problem2.py)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Mathematica/Problem2.mathematica)|  |  |  |
 | Problem 3 |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/C%23/Problem3.cs)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/Problem3.java)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/Problem3.hs)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Mathematica/Problem3.mathematica)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Mathematica/Problem3.mathematica)|  |  |  |
@@ -49,9 +56,10 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 359 |    |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p359.java)|         |    |              |   |  |  |
 | Problem 362 |    |      |         |    | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p362.cc)|  |  |
 | Problem 364 |    |      |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p364.py)|              |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p364.gp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Ruby/p364.rb)|
+| Problem 365 |    |      |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p365.java)|    |              |       |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p365.gp)|                    |
+| Problem 366 |    |      |         |    |              |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p366.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p366.gp)|            |
 | Problem 495 |    |      |         |    |              |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p495.cpp)|  |  |
 | Problem 502 |    |      |         |    |              |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p502.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p502.gp)|  |
 
-
-# Credits
+### Credits
 Thanks to [Lewis Lovette](https://github.com/LewisLovette) for building this glorious table.
