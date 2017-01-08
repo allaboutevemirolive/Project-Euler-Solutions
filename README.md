@@ -1,4 +1,14 @@
-#Project Euler Solutions
+# Project Euler Solutions
+This repository contains some of my solutions to Project Euler problems. 
+
+### Solutions
+Since I've just decided to create this repository, all solutions are not here. You are welcome to fill in the gaps that I have in my table below. 
+
+### Languages Used
+I'm currently doing these problems in C/C++, Java, and Python. I've recently started (learning and) using PARI/GP since it's so efficient. I also use Haskell, F#, C#, Ruby, and Mathematica from time to time depending on how I feel about the problem.
+
+### Table
+
 I haven't done every solution in every language so here's a table to make things easier:
 
 |  Problems | C# | Java | Haskell | Python | Mathematica | C++ | PARI/GP | Ruby |
@@ -51,6 +61,5 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 495 |    |      |         |    |              |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p495.cpp)|  |  |
 | Problem 502 |    |      |         |    |              |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p502.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p502.gp)|  |
 
-
-# Credits
+### Credits
 Thanks to [Lewis Lovette](https://github.com/LewisLovette) for building this glorious table.
