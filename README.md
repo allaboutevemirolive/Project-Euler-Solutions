@@ -1,6 +1,6 @@
+# Project Euler Solutions
 This repository contains some of my solutions to Project Euler problems. 
 
-### Solutions
 Since I've just decided to create this repository, all solutions are not here. You are welcome to fill in the gaps that I have in my table below. 
 
 ### Languages Used
