@@ -87,6 +87,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 364 |    |   |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p364.py)|   |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p364.gp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Ruby/p364.rb)|
 | Problem 365 |    |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p365.java)|   |    |   |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p365.gp)|   |
 | Problem 366 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p366.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p366.gp)|   |
+| Problem 369 |     |   |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p369.py)|   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p369.cpp)|   |   |
 | Problem 495 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p495.cpp)|  |  |
 | Problem 502 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p502.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p502.gp)|  |
 
