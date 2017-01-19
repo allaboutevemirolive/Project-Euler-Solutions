@@ -99,3 +99,6 @@ I haven't done every solution in every language so here's a table to make things
 
 ### Credits
 Thanks to [Lewis Lovette](https://github.com/LewisLovette) for building this glorious table.
+
+### License
+All code is released under the GNU General Public License v3.0, unless specified otherwise.
