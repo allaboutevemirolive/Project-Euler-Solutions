@@ -1,5 +1,5 @@
 # Project Euler Solutions
-![badge](https://projecteuler.net/profile/kkmonlee.png)
+![badge](https://projecteuler.net/profile/kkmonlee.png?)
 
 This repository contains some of my solutions to Project Euler problems. 
 
