@@ -1,0 +1,1 @@
+Total@Select[Range[2000000], PrimeQ[#] &]
