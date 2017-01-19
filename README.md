@@ -97,6 +97,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 370 |		 |		 |		 |		 |		 |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p370.cpp)| 		|		 |
 | Problem 371 |		 |		 | 		|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p371.py)| 		|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p371.cpp)| 		| 		|
 | Problem 372 |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/C%23/p372.cs)| 		|		 |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p372.py)|		 |		 |		 |		 |
+| Problem 373 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p373.cpp)| | |
 | Problem 495 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p495.cpp)|  |  |
 | Problem 502 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p502.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p502.gp)|  |
 
