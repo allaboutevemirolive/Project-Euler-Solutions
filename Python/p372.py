@@ -1,5 +1,7 @@
 from decimal import *
 
+# Evaluates number of points (x, y) in a right-angled triangle ax + by <= c
+# Where x > 0 and y > 0
 def getNumberOfPoints(a, b, c):
     m = c / a
     if a == b:
@@ -8,6 +10,7 @@ def getNumberOfPoints(a, b, c):
 
     return getNumberOfPoints(b, a - b * k, c - b * (k * m + h)) + k * (m * (m - 1)) / 2 + m * h
 
+# Evaluates number of lattice points (x, y) in [M + 1, N]^2 such that k <= (y * y)/(x * x)
 def getLatticePoints(k, M, N):
     s, q = Decimal(k).sqrt(), 10**30
     p = int(s * q)
