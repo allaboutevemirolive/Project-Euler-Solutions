@@ -2,6 +2,16 @@
 #include <vector>
 using namespace std;
 
+// My initial approach was to generate Heronian trianges and check the formula R = abc / 4P
+// but obviously there will be problems because the triangles aren't primitive GCD(a, b, c) > 1
+
+// If I assume GCD(a, b, c) = 1 then I can brute-force my search  up to the R value and later 
+// multiply by the right factor to correct it
+
+// Although if I focus on the primes and mutual common factors of a, b and c then I can assign 
+// them to a, b, c based on their generating factors. This way I can reduce my search space
+// significantly.
+
 const int n = 1e7, N = n + 10;
 
 struct node {
