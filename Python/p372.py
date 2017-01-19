@@ -16,7 +16,7 @@ def getLatticePoints(k, M, N):
     return getNumberOfPoints(p, q, N * q - M * p) + (N * q) / p - M
 
 def getRay(k, M, N):
-    return getLatticePoints(2 * k + 1, M, N)
+    return getLatticePoints(2 * k + 1, M, N) - getLatticePoints(2 * k + 2, M, N)
 
 M, N = 2*10**6, 10**9
 print sum([getRay(k, M, N) for k in xrange(0, (N * N) / (M * M) + 1)])
