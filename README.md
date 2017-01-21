@@ -100,6 +100,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 373 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p373.cpp)| | |
 | Problem 374 |		 |		 |		 |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p374.py)| 		| 		| 		| 		|
 | Problem 375 | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p375.py)| |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p375.cpp)| | |
+| Problem 376 | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p376.java)| | | | | | |
 | Problem 377 | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p377.java)| | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p377.gp)| |
 | Problem 495 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p495.cpp)|  |  |
 | Problem 502 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p502.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p502.gp)|  |
