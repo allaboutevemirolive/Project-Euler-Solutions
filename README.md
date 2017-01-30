@@ -109,6 +109,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 382 | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p382.java)| | | | | | |
 | Problem 383 | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p383.java)| | | | | |
 | Problem 385 | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p385.java)| | | | | |
+| Problem 387 | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p387.cpp)| | |
 | Problem 495 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p495.cpp)|  |  |
 | Problem 502 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p502.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p502.gp)|  |
 
