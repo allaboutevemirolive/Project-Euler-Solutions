@@ -110,11 +110,8 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 383 | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p383.java)| | | | | |
 | Problem 384 | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p384.py)| | | | |
 | Problem 385 | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p385.java)| | | | | |
-<<<<<<< HEAD
 | Problem 387 | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p387.cpp)| | |
-=======
 | Problem 386 | | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p386.gp)| |
->>>>>>> bf438b8a98f620dce4e2009a19dd8376c6a696d3
 | Problem 495 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p495.cpp)|  |  |
 | Problem 502 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p502.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p502.gp)|  |
 
