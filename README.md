@@ -114,7 +114,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 387 | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p387.cpp)| |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Ruby/p387.rb)|
 | Problem 388 | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p388.py)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Mathematica/p388.mathematica)| | | |
 | Problem 389 | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p389.java)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p389.py)| |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p389.cpp)| | |
-| Problem 390 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p390.cpp)| | |
+| Problem 390 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p390.c)| | |
 | Problem 495 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p495.cpp)|  |  |
 | Problem 502 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p502.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p502.gp)|  |
 
