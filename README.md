@@ -118,7 +118,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 391 | |[V1](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p391v1.java)[ V2](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p391v2.java)| | | | | | |
 | Problem 392 | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Mathematica/p392.mathematica)<br />[\[MATLAB\]](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Other Languages/p392.m)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p392s.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p392.gp)| |
 | Problem 393 | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p393.py)| | | | |
-| Problem 395 | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p395.java)| | | | | | |
+| Problem 395 | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p395.java)| | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p395.gp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Ruby/p395.rb)|
 | Problem 495 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p495.cpp)|  |  |
 | Problem 502 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p502.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p502.gp)|  |
 
