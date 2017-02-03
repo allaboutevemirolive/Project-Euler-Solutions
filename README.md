@@ -1,9 +1,9 @@
 # Project Euler Solutions
 ![badge](https://projecteuler.net/profile/kkmonlee.png?)
 
-This repository contains some of my solutions to Project Euler problems. 
+This repository contains some of my solutions to Project Euler problems.
 
-Since I've just decided to create this repository, all solutions are not here. You are welcome to fill in the gaps that I have in my table below. 
+Since I've just decided to create this repository, all solutions are not here. You are welcome to fill in the gaps that I have in my table below.
 
 ### Languages Used
 I'm currently doing these problems in C/C++, Java, and Python. I've recently started (learning and) using PARI/GP since it's so efficient. I also use Haskell, F#, C#, Ruby, and Mathematica from time to time depending on how I feel about the problem.
@@ -116,7 +116,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 389 | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p389.java)| |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p389.py)| |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p389.cpp)| | |
 | Problem 390 | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p390.java)| |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p390.py)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Mathematica/p390.mathematica)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p390.c)| | |
 | Problem 391 | |[V1](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p391v1.java)[ V2](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p391v2.java)| | | | | | |
-| Problem 392 | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Mathematica/p392.mathematica)<br />[\[MATLAB\]](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Other Languages/p392.m)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p392s.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p392.gp)| |
+| Problem 392 | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Mathematica/p392.mathematica)<br />[\[MATLAB\]](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Other Languages/p392.m)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p392.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p392.gp)| |
 | Problem 393 | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p393.py)| | | | |
 | Problem 395 | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p395.java)| | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Mathematica/p395.mathematica)<br />[\[Sage\]](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Other Languages/p395.sagews)| |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p395.gp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Ruby/p395.rb)|
 | Problem 495 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p495.cpp)|  |  |
