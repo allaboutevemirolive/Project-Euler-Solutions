@@ -117,7 +117,7 @@ public class p395 extends JFrame {
         }
 
         private void drawSquare(Square s, int depth) {
-            if (depth == 5) {
+            if (depth == 3) {
                 SQUARES.add(s);
                 return;
             }
