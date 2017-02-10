@@ -124,6 +124,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 397 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p397.cpp)| | |
 | Problem 398 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p398.c)| | |
 | Problem 399 | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p399.java)| | | | | | |
+| Problem 400 | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p400.java)| | | | | | |
 | Problem 447 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p447.cpp)| |
 | Problem 495 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p495.cpp)|  |  |
 | Problem 502 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p502.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p502.gp)|  |
