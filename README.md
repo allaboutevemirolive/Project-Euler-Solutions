@@ -123,6 +123,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 396 | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p396.java)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/p396.hs)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p396.py)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Mathematica/p396.mathematica)| |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p396.gp)| |
 | Problem 397 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p397.cpp)| | |
 | Problem 398 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p398.c)| | |
+| Problem 399 | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p399.java)| | | | | | |
 | Problem 447 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p447.cpp)| |
 | Problem 495 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p495.cpp)|  |  |
 | Problem 502 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p502.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p502.gp)|  |
