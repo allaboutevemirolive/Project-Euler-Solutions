@@ -128,7 +128,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 401 | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p401.java)| | | | | | |
 | Problem 402 | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p402.py)| | | | |
 | Problem 403 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p403.cpp)| | |
-| Problem 404 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p404.cpp)| | |
+| Problem 404 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p404.c)| | |
 | Problem 447 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p447.cpp)| |
 | Problem 495 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p495.cpp)|  |  |
 | Problem 502 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CPP/p502.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p502.gp)|  |
