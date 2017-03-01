@@ -134,7 +134,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 407 | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p407.py)| | | | |
 | Problem 408 | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p408.java)| |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p408.py)| | | | |
 | Problem 409 | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p409.java)| | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p409.c)| | |
-| Problem 410 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p410.c)| | |
+| Problem 410 | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/p410.hs)| | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p410.c)| | |
 | Problem 447 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p447.cpp)| |
 | Problem 495 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p495.cpp)|  |  |
 | Problem 502 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p502.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p502.gp)|  |
