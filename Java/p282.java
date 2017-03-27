@@ -18,7 +18,6 @@ public class p282 {
     }
 
     /**
-     * nigga
      * @param m
      * @param n
      * @return
