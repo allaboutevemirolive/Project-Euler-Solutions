@@ -148,6 +148,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 421 | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p421.py)| |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p421.cpp)| | |
 | Problem 422 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p422.cpp)| | |
 | Problem 423 | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p423.py)| | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p423.gp)| |
+| Problem 424 | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p424.java)| | | | | | |
 | Problem 447 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p447.cpp)| |
 | Problem 495 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p495.cpp)|  |  |
 | Problem 502 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p502.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p502.gp)|  |
