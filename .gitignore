@@ -197,6 +197,9 @@ hs_err_pid*
 *.la
 *.lo
 
+# Swap cache
+*.swp.c
+
 # Shared objects (inc. Windows DLLs)
 *.dll
 *.so
