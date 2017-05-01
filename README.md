@@ -156,6 +156,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 429 |    |   |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p429.py)|  |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p429.cpp)|  |  |
 | Problem 430 | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/p430.hs)| | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p430.cpp)| | |
 | Problem 431 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p431.cpp)| |
+| Problem 432 | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p432.py)| |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p432.cpp)| |
 | Problem 447 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p447.cpp)| |
 | Problem 478 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p478.cpp)| | |
 | Problem 495 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p495.cpp)|  |  |
