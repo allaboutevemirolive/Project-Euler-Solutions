@@ -183,7 +183,7 @@ int main() {
         }
     }
 
-    cout << "nPrimes = " << nPrimes < "\n";
+    cout << "nPrimes = " << nPrimes << "\n";
     cout << "sum = " << sum << "\n";
 
     return 0;
