@@ -6,7 +6,7 @@ This repository contains some of my solutions to Project Euler problems.
 Since I've just decided to create this repository, all solutions are not here. You are welcome to fill in the gaps that I have in my table below.
 
 ### Languages Used
-I'm currently doing these problems in C/C++, Java, and Python. I've recently started (learning and) using PARI/GP since it's so efficient. I also use Haskell, F#, C#, Ruby, and Mathematica from time to time depending on how I feel about the problem.
+I'm currently doing these problems in C/C++, Java, and Python. I also use Haskell, F#, C#, Ruby, and Mathematica from time to time depending on how I feel about the problem.
 
 ### Table
 
@@ -174,6 +174,9 @@ I haven't done every solution in every language so here's a table to make things
 
 ### Credits
 Thanks to [Lewis Lovette](https://github.com/LewisLovette) for building this glorious table.
+
+### Academic Code of Honour
+If you have not solved a problem, academic code of honour restricts you from viewing the solutions of those problems.
 
 ### License
 All code is released under the GNU General Public License v3.0, unless specified otherwise.
