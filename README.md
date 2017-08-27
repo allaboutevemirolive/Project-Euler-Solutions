@@ -25,6 +25,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 9 |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/C%23/p9.cs)| | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Mathematica/p9.mathematica)| | | |
 | Problem 10 | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Mathematica/p10.mathematica)| | | |
 | Problem 11 | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Mathematica/p11.mathematica)| | | |
+| Problem 12 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p12.c)| |
 | Problem 58  |    |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p58.java)|    |    |   |   |  |  |
 | Problem 119 |    |[V1](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p119.java) [V2](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p119v2.java)|   |   |  |  |  |
 | Problem 176 |    |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p176.java)|   |    |   |   |  |  |
