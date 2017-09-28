@@ -1,6 +1,6 @@
 # Ignore .vscode
 .vscode/*
-
+.vscode/
 # Ignore all
 *
 
