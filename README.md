@@ -197,6 +197,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 467 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p467.c)| |
 | Problem 468 | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/p468.hs)| | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p468.cpp)| |
 | Problem 469 | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/p469.hs)| | | | |
+| Problem 470 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p470.c)| |
 | Problem 478 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p478.cpp)| | |
 | Problem 495 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p495.cpp)|  |  |
 | Problem 502 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p502.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p502.gp)|  |
