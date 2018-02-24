@@ -31,6 +31,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 15 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p15.c)| |
 | Problem 16 | | | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Ruby/p16.rb)|
 | Problem 17 | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/p17.hs)| | | | | |
+| Problem 18 | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/p18.hs)| | | | | |
 | Problem 58  |    |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p58.java)|    |    |   |   |  |  |
 | Problem 119 |    |[V1](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p119.java) [V2](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p119v2.java)|   |   |  |  |  |
 | Problem 176 |    |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p176.java)|   |    |   |   |  |  |
