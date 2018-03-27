@@ -224,6 +224,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 488 | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p489.py)| |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p488.cpp)| | |
 | Problem 489 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p489.c)| | |
 | Problem 490 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p490.cpp)| | |
+| Problem 491 | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/p491.hs)| | | | |
 | Problem 495 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p495.cpp)|  |  |
 | Problem 502 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p502.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p502.gp)|  |
 

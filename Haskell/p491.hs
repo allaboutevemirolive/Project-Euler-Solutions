@@ -1,0 +1,1 @@
+main = print $ 9 * div (10 * product [1..10] ^ 2 + div (product [1..20]) 11) (10*2 ^ 10)
