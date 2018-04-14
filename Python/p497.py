@@ -31,4 +31,4 @@ for n in range(1, 10001):
             (V[2] + V[5]) %mod,
             (V[3] + V[4] + 1) % mod]
 
-    print(res % mod)
+print(res % mod)
