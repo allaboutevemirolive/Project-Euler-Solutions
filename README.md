@@ -231,6 +231,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 495 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p495.cpp)|  |  |
 | Problem 496 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p496.cpp)| | |
 | Problem 497 |    |   |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p497.py)|  |   |  |  |
+| Problem 498 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p498.cpp)| | |
 | Problem 502 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p502.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p502.gp)|  |
 
 ### Credits
