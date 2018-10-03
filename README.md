@@ -236,6 +236,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 502 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p502.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p502.gp)|  |
 | Problem 503 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p503.cpp)| | |
 | Problem 504 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p504.cpp)| | |
+| Problem 505 | | | | | |[Solution in Go](https://github.com/kkmonlee/Project-Euler-Solutions/tree/master/Other%20Languages/p505.go)| | |
 
 ### Credits
 Thanks to [Lewis Lovette](https://github.com/LewisLovette) for building this glorious table.
