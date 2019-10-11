@@ -240,6 +240,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 507 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p507.cpp)| | |
 | Problem 508 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p508.cpp)| | |
 | Problem 509 |    |   |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p509.py)|  |   |  |  |
+| Problem 510 |    |   |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p510.py)|  |   |  |  |
 
 ### Credits
 Thanks to [Lewis Lovette](https://github.com/LewisLovette) for building this glorious table.
