@@ -242,6 +242,7 @@ I haven't done every solution in every language so here's a table to make things
 | Problem 509 |    |   |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p509.py)|  |   |  |  |
 | Problem 510 |    |   |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p510.py)|  |   |  |  |
 | Problem 511 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p511.cpp)| | |
+| Problem 512 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p512.cpp)| | |
 
 ### Credits
 Thanks to [Lewis Lovette](https://github.com/LewisLovette) for building this glorious table.
