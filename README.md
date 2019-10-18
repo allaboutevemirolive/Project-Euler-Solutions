@@ -236,7 +236,7 @@ I haven't done every solution in every language so here's a table to make things
 | # 502 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p502.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p502.gp)|  |    |
 | # 503 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p503.cpp)| | |    |
 | # 504 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p504.cpp)| | |    |
-| # 505 | | | | | |[Solution<br />in Go]| | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Go/p505.go)|
+| # 505 | | | | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Go/p505.go)|
 | # 507 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p507.cpp)| | |    |
 | # 508 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p508.cpp)| | |    |
 | # 509 |    |   |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p509.py)|  |   |  |  |    |
@@ -244,6 +244,7 @@ I haven't done every solution in every language so here's a table to make things
 | # 511 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p511.cpp)| | |    |
 | # 512 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p512.cpp)| | |    |
 | # 513 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p513.cpp)| | |    |
+| # 514 | | | | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Go/p514.go)|
 
 ### Credits
 Thanks to [Lewis Lovette](https://github.com/LewisLovette) for building this glorious table.
