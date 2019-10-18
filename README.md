@@ -6,7 +6,7 @@ This repository contains some of my solutions to Project Euler problems.
 Since I've just decided to create this repository, all solutions are not here. You are welcome to fill in the gaps that I have in my table below.
 
 ### Languages Used
-I'm currently doing these problems in C/C++, Java, and Python. I also use Haskell, F#, C#, Ruby, and Mathematica from time to time depending on how I feel about the problem.
+I'm currently doing these problems in C/C++, Java, and Python. I also use Go, Haskell, F#, C#, Ruby, and Mathematica from time to time depending on how I feel about the problem.
 
 ### Table
 
@@ -236,7 +236,7 @@ I haven't done every solution in every language so here's a table to make things
 | # 502 |    |   |   |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p502.cpp)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/PARI/p502.gp)|  |    |
 | # 503 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p503.cpp)| | |    |
 | # 504 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p504.cpp)| | |    |
-| # 505 | | | | | |[Solution<br />in Go]| | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/tree/master/Other%20Languages/p505.go)|
+| # 505 | | | | | |[Solution<br />in Go]| | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Go/p505.go)|
 | # 507 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p507.cpp)| | |    |
 | # 508 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p508.cpp)| | |    |
 | # 509 |    |   |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p509.py)|  |   |  |  |    |
