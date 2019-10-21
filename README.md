@@ -35,6 +35,7 @@ I haven't done every solution in every language so here's a table to make things
 | # 19 | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/p19.hs)| | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Ruby/p19.rb)|    |
 | # 20 | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/p20.hs)| | | | | |    |
 | # 21 | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/p21.hs)| | | | | |    |
+| # 22 | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/p22.hs)| | | | | |    |
 | # 58  |    |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p58.java)|    |    |   |   |  |  |    |
 | # 119 |    |[V1](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p119.java) [V2](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p119v2.java)|   |   |  |  |  |    |
 | # 176 |    |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p176.java)|   |    |   |   |  |  |    |
