@@ -249,6 +249,7 @@ I haven't done every solution in every language so here's a table to make things
 | # 514 | | | | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Go/p514.go)|
 | # 515 | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/p515.hs)| | | | |    |
 | # 516 | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/p516.hs)| | | | |    |
+| # 517 |    |   |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p517.py)|  |   |  |  |    |
 
 ### Credits
 Thanks to [Lewis Lovette](https://github.com/LewisLovette) for building this glorious table.
