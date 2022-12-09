@@ -251,6 +251,10 @@ I haven't done every solution in every language so here's a table to make things
 | # 516 | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/p516.hs)| | | | |    |
 | # 517 |    |   |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p517.py)|  |   |  |  |    |
 | # 518 | | | | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Go/p518.go)|
+| # 520 | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/CCPP/p520.cpp)| | |    |
+| # 522 | | | | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Go/p522.go)|
+
+
 
 ### Credits
 Thanks to [Lewis Lovette](https://github.com/LewisLovette) for building this glorious table.
