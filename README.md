@@ -256,6 +256,7 @@ I haven't done every solution in every language so here's a table to make things
 | # 522 | | | | | | | | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Go/p522.go)|
 | # 523 |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/p523.hs)|[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Python/p523.py)|  |   |  |  |    |
 | # 524 | |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Java/p524.java)| | | | | | |    |
+| # 525 |    |   |[Solution](https://github.com/kkmonlee/Project-Euler-Solutions/blob/master/Haskell/p525.hs)|      |  |   |  |  |    |
 
 
 
